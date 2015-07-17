@@ -16,7 +16,7 @@ ul {
 
 .divItems label {
   display: inline-block;
-  width: 
+  width:
 }
 
 li {
@@ -24,7 +24,7 @@ li {
   border: 1px solid;
   border-radius: 3px;
   list-style: none;
-  display: 
+  display:
   line-height: 40px;
   text-align: left;
   margin: 0 0 10px 10px;
@@ -42,9 +42,7 @@ button {
   left: -20px;
 }
 
-
 /* ==== Completed END ==== */
-
 
 btn {
   display: inline-block;
